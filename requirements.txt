@@ -2,5 +2,5 @@ flask
 requests
 gunicorn
 wikipedia
-symspell
+symspellpy
 fuzzywuzzy
